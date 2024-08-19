@@ -1,7 +1,7 @@
 $schema: https://azuremlschemas.azureedge.net/latest/pipelineJob.schema.json
 type: pipeline
 
-description: Train model with auto mpg data
+description: Train a gradient boosting model with auto mpg data
 
 display_name: auto-mpg-pipeline-example
 experiment_name: auto-mpg-pipeline-example
